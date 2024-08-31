@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "D:/4VP23AI031-DDCO/EXP-4/halfadder.xst" -ofn "D:/4VP23AI031-DDCO/EXP-4/halfadder.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI031-DDCO/EXP-4/halfadder.xst" -ofn "D:/4VP23AI031-DDCO/EXP-4/halfadder.syr" 
+xst -intstyle ise -ifn "D:/4VP23AI031-DDCO/EXP-4/halfadder.xst" -ofn "D:/4VP23AI031-DDCO/EXP-4/halfadder.syr" 

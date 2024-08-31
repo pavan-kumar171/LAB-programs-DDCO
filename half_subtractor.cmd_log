@@ -1,0 +1,6 @@
+vhdtdtfi -lib work D:/4VP23AI031-DDCO/EXP-4/half_subtractor.v -lang verilog -prj EXP-4 -o half_subtractor.spl -module half_subtractor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3a half_subtractor.spl D:/4VP23AI031-DDCO/EXP-4/half_subtractor.sym 
+vhdtdtfi -lib work D:/4VP23AI031-DDCO/EXP-4/half_subtractor.v -lang verilog -prj EXP-4 -o half_subtractor.spl -module half_subtractor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3a half_subtractor.spl D:/4VP23AI031-DDCO/EXP-4/half_subtractor.sym 
+vhdtdtfi -lib work D:/4VP23AI031-DDCO/EXP-4/half_subtractor.v -lang verilog -prj EXP-4 -o half_subtractor.spl -module half_subtractor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3a half_subtractor.spl D:/4VP23AI031-DDCO/EXP-4/half_subtractor.sym 

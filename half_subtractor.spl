@@ -1,0 +1,10 @@
+[Inputs]
+A
+B
+[Outputs]
+Diff
+Borrow
+[BiDir]
+[ATTRIBUTES]
+VeriModel half_subtractor
+

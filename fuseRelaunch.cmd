@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/4VP23AI031-DDCO/EXP-4/full_subtractor_isim_beh.exe" -prj "D:/4VP23AI031-DDCO/EXP-4/full_subtractor_beh.prj" "work.full_subtractor" "work.glbl" 
