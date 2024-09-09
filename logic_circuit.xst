@@ -1,0 +1,5 @@
+set -tmpdir "D:/4VP23AI031-DDCO/exp3/xst/projnav.tmp"
+set -xsthdpdir "D:/4VP23AI031-DDCO/exp3/xst"
+elaborate
+-ifn logic_circuit.prj
+-ifmt mixed
